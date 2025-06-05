@@ -1,0 +1,6 @@
+# Ignore system and config folders
+AppData/
+.vscode/
+*.lock
+*.log
+node_modules/
